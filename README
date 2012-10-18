@@ -1,0 +1,5 @@
+Snake game created with Pygame
+
+My first full game created with Pygame. Pretty pleased with it; the only thing I have left to do is to make the score transparent when the worm passes through it while still erasing the score below.
+
+This game was created with a great deal of help from the tutorial posted at http://en.wordpress.com/tag/pygame-tutorial/ which I found to be one of the better instructional sites for Pygame on the Interwebs. Thanks, Lorenzo!
